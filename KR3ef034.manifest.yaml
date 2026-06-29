@@ -1,0 +1,457 @@
+canonical_identifier: bkk:krp/KR3ef034/v1
+canonical_location: https://kanripo.org/bkk/KR3ef034/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 河間傷寒心要
+  identifiers:
+    krp: KR3ef034
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef034.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:56402d291812e106a5072975949526dab4f66c1abebd3f4b7332fb34bc9d3008'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:4860c18f17a106e45f90869c20975214b19e4519a4fe71c05d223114a4c02bca'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 2652
+  label: 傷寒心要論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d30
+    span:
+    - body
+    - 1219
+    - 1741
+  label: 寒
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d2
+    span:
+    - body
+    - 1220
+    - 1438
+  label: 第一雙解散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d3
+    span:
+    - body
+    - 1438
+    - 1526
+  label: 第二小柴胡涼膈天水合服
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d4
+    span:
+    - body
+    - 1526
+    - 1534
+  label: 第三涼膈合小柴胡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d5
+    span:
+    - body
+    - 1534
+    - 1634
+  label: 第四大柴胡合黃連解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d6
+    span:
+    - body
+    - 1634
+    - 1691
+  label: 第五大柴胡合三一承氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d7
+    span:
+    - body
+    - 1691
+    - 1701
+  label: 第六三一承氣合解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d8
+    span:
+    - body
+    - 1701
+    - 1731
+  label: 第七瓜蒂散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d9
+    span:
+    - body
+    - 1731
+    - 1736
+  label: 第八涼膈散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d30d10
+    span:
+    - body
+    - 1736
+    - 1741
+  label: 第九益元散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d31
+    span:
+    - body
+    - 1741
+    - 1800
+  label: 風
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d31d2
+    span:
+    - body
+    - 1742
+    - 1750
+  label: 第十雙解散去麻黃
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d31d3
+    span:
+    - body
+    - 1750
+    - 1791
+  label: 第十一白虎湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d31d4
+    span:
+    - body
+    - 1791
+    - 1800
+  label: 第十二承氣合解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d32
+    span:
+    - body
+    - 1800
+    - 1900
+  label: 暑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d2
+    span:
+    - body
+    - 1801
+    - 1807
+  label: 第十三白虎湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d3
+    span:
+    - body
+    - 1807
+    - 1854
+  label: 第十四五苓散合天水散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d4
+    span:
+    - body
+    - 1854
+    - 1863
+  label: 第十五承氣合解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d5
+    span:
+    - body
+    - 1863
+    - 1872
+  label: 第十六白虎湯加蒼朮
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d6
+    span:
+    - body
+    - 1872
+    - 1881
+  label: 第十七涼膈合解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d7
+    span:
+    - body
+    - 1881
+    - 1890
+  label: 第十八解毒合承氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d32d8
+    span:
+    - body
+    - 1890
+    - 1900
+  label: 第十九解毒涼膈天水合
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d33
+    span:
+    - body
+    - 1900
+    - 2162
+  label: 結胸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d33d2
+    span:
+    - body
+    - 1902
+    - 2076
+  label: 第二十大小陷胸湯丸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d33d3
+    span:
+    - body
+    - 2076
+    - 2088
+  label: 第二十一小柴胡合小陷胸湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d33d4
+    span:
+    - body
+    - 2088
+    - 2155
+  label: 第二十二大承氣湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d33d5
+    span:
+    - body
+    - 2155
+    - 2162
+  label: 第二十三解毒湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d34
+    span:
+    - body
+    - 2162
+    - 2174
+  label: 發斑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d34d2
+    span:
+    - body
+    - 2164
+    - 2174
+  label: 第二十四涼膈散加當歸
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d35
+    span:
+    - body
+    - 2174
+    - 2227
+  label: 發黃
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d35d2
+    span:
+    - body
+    - 2176
+    - 2218
+  label: 第二十五茵陳蒿湯調五苓散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d35d3
+    span:
+    - body
+    - 2218
+    - 2227
+  label: 第二十六茵陳合承氣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d36
+    span:
+    - body
+    - 2227
+    - 2274
+  label: 心煩不眠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d36d2
+    span:
+    - body
+    - 2231
+    - 2274
+  label: 第二十七梔子豉湯
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d37
+    span:
+    - body
+    - 2274
+    - 2289
+  label: 誤下虛痞
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d37d2
+    span:
+    - body
+    - 2278
+    - 2289
+  label: 第二十八涼膈加桔梗枳殼
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d38
+    span:
+    - body
+    - 2289
+    - 2302
+  label: 剛柔二痓
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d38d2
+    span:
+    - body
+    - 2293
+    - 2302
+  label: 第二十九承氣合解毒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2d39
+    span:
+    - body
+    - 2302
+    - 2652
+  label: 汗後煩渴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d39d2
+    span:
+    - body
+    - 2306
+    - 2459
+  label: 第三十涼膈減桂五苓桂苓甘露飲益元散
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d2.d39d3
+    span:
+    - body
+    - 2459
+    - 2652
+  label: 新增病後四方
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ef034_jc_000-d3.h1s1
+    span:
+    - body
+    - 2652
+    - 3344
+  label: 傷寒心要餘論
+  type: section
+  level: 1
+hash: sha256:d0c4049d4635e23dc79061ae1074ede62a94e174832ccc6b23545fc02aa73797
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
