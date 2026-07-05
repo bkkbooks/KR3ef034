@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:56402d291812e106a5072975949526dab4f66c1abebd3f4b7332fb34bc9d3008'}
+  - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:54d11d951232f9b2be7b8eda300d0435fb625ff0c240feb44c1531da78d0ac43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:4860c18f17a106e45f90869c20975214b19e4519a4fe71c05d223114a4c02bca'}
+  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:b6786b031eb2adb27a3f892632247fb113be747f5e9b269d95abb8172b3c7e3b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -451,7 +451,4 @@ table_of_contents:
   label: 傷寒心要餘論
   type: section
   level: 1
-hash: sha256:d0c4049d4635e23dc79061ae1074ede62a94e174832ccc6b23545fc02aa73797
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:02f7dbeb3003bfcf29d2d85ab07fe335828bf6afe7f31c1d5cae03df612c4fc6
