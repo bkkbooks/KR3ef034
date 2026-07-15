@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef034/v1
 canonical_location: https://kanripo.org/bkk/KR3ef034/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 河間傷寒心要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:54d11d951232f9b2be7b8eda300d0435fb625ff0c240feb44c1531da78d0ac43'}
+  - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:f8e00470dd9d934f44aa6873296b21ac33ef58863c3dbe3cddc5a797eae9ed3c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:b6786b031eb2adb27a3f892632247fb113be747f5e9b269d95abb8172b3c7e3b'}
+  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:2912e63469d42856fff1067aa82807b1cf137c20803e14b949266eafa3ac7ef1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -451,4 +451,7 @@ table_of_contents:
   label: 傷寒心要餘論
   type: section
   level: 1
-hash: sha256:02f7dbeb3003bfcf29d2d85ab07fe335828bf6afe7f31c1d5cae03df612c4fc6
+hash: sha256:d0e681741376bd4996f53b0b3452a62b30282aefc8efcaa00ccdcb4053abf59f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
