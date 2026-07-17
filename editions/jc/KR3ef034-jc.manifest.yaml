@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef034_000-jc.yaml, hash: 'sha256:54d11d951232f9b2be7b8eda300d0435fb625ff0c240feb44c1531da78d0ac43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef034_000-jc.markers.yaml, hash: 'sha256:8eadc5354c7b31e35ce8238d4e211484e238aaeb87b3b83d305a7c51f59d61e2'}
+  - {seq: 0, role: markers, filename: assets/KR3ef034_000-jc.markers.yaml, hash: 'sha256:b32de06dad30e2dc7905a2d8133f6807e2163493b2bd322eff870a97b67ef9ea'}
 table_of_contents:
 - ref:
     seq: 0
@@ -451,4 +451,4 @@ table_of_contents:
   label: 傷寒心要餘論
   type: section
   level: 1
-hash: sha256:73acac993ee44d295525e33b8689644114c2fb0b4ade478db8a0fb3df5e87314
+hash: sha256:b0334e8cee8f22da9805f5b69c8575ee5aa12c316e6dc1a14eee26c1cac1ac89

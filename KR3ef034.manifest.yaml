@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef034_000.yaml, hash: 'sha256:f8e00470dd9d934f44aa6873296b21ac33ef58863c3dbe3cddc5a797eae9ed3c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:2912e63469d42856fff1067aa82807b1cf137c20803e14b949266eafa3ac7ef1'}
+  - {seq: 0, role: markers, filename: assets/KR3ef034_000.markers.yaml, hash: 'sha256:18f39d1dcdb3d2aa5513466d3e8794b053aa91bff285b171bdc654015caf848d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -451,7 +451,7 @@ table_of_contents:
   label: 傷寒心要餘論
   type: section
   level: 1
-hash: sha256:d0e681741376bd4996f53b0b3452a62b30282aefc8efcaa00ccdcb4053abf59f
+hash: sha256:942c2857d4ae22517de6c2fea1ccebb91832639932e1ab92117ffc20d0b7e188
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
